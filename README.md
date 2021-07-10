@@ -1,7 +1,8 @@
-# Bem vindos
+### Bem vindos 😄
 
 ## Sou Rafael Aragão, estudante de desenvolvimento de sistemas.
-## Estou estudando stack's de Front-end no momento, mas pretendo me tornar Full-stack.
+- Estou estudando stack's de Front-end no momento, mas pretendo me tornar Full-stack.
+</br>
 
 <p align="left">
   💌 Entre em contato comigo! :) ⤵️
