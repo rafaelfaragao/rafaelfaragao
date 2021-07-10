@@ -43,7 +43,7 @@
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
     <br>
     <p align="center">
-      [![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelfaragao)](https://github.com/anuraghazra/github-readme-stats)
+      <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafaelfaragao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelfaragao&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </p>
