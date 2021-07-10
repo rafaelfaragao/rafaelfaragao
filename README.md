@@ -18,8 +18,9 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5587991042986"/></a>
 </p>
 
-<h3> 💪 Minhas habilidades 
-  
+<h3> 💪 Minhas habilidades </h3>
+
+<p align="left">
 **Linguagens e Frameworks**
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,7 +36,7 @@
  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) 
  ![vscode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
+</p>
 
 <details open>
     <summary>⚙ <b>GitHub Analytics</b>: </summary>
