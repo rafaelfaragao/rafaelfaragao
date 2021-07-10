@@ -21,6 +21,7 @@
 <h3> 💪 Minhas habilidades </h3>
 
 <p align="left">
+  
 **Linguagens e Frameworks**
 
  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
