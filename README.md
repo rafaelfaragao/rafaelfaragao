@@ -3,6 +3,7 @@
 ## Sou Rafael Aragão, programador e estudante de desenvolvimento de sistemas.
 - Estou estudando stack's de Front-end no momento, mas pretendo me tornar Full-stack.
 - Tenho graduação em Análise e Desenvolvimento de Sistemas, atuo na área desenvolvendo sites de apresentação para empresas.
+- Em breve quero participar de um squad de programação para colaborar e aprender cada vez mais.
 </br>
 
 <p align="left">
