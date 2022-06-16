@@ -1,7 +1,8 @@
 ### Bem vindos 😄
 
-## Sou Rafael Aragão, estudante de desenvolvimento de sistemas.
+## Sou Rafael Aragão, programador e estudante de desenvolvimento de sistemas.
 - Estou estudando stack's de Front-end no momento, mas pretendo me tornar Full-stack.
+- Tenho graduação em Análise e Desenvolvimento de Sistemas, atuo na área desenvolvendo sites de apresentação para empresas.
 </br>
 
 <p align="left">
