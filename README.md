@@ -2,7 +2,7 @@
 
 ## Sou Rafael Aragão, programador e estudante de desenvolvimento de sistemas.
 - Estou estudando stack's de Front-end no momento, mas pretendo me tornar Full-stack.
-- Tenho graduação em Análise e Desenvolvimento de Sistemas, atuo na área desenvolvendo sites de apresentação para empresas.
+- Tenho graduação em Análise e Desenvolvimento de Sistemas, estou atuando na área de Suporte de TI para empresas.
 - Em breve quero participar de um squad de programação para colaborar e aprender cada vez mais.
 </br>
 
@@ -50,18 +50,3 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rafaelfaragao&layout=compact&langs_count=8&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </p>
 </details>
-  
-<!--
-**rafaelfaragao/rafaelfaragao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
